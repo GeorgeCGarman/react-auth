@@ -1,6 +1,5 @@
 import { Container, Col, Row } from "react-bootstrap";
 import {Routes, Route, Navigate} from "react-router-dom"
-import ProtectedRoutes from "./ProtectedRoutes";
 import Account from './Account'
 import FreeComponent from "./FreeComponent";
 import AuthComponent from "./AuthComponent";
